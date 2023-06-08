@@ -1,2 +1,2 @@
-projwct task
-0x05-nqueens
+ 0x14-nqueens
+
